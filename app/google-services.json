@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796950192588",
+    "project_id": "old-method",
+    "storage_bucket": "old-method.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796950192588:android:e7e849f72868ac67f13d69",
+        "android_client_info": {
+          "package_name": "com.example.old"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7XJFNCluZo3MUhtjZ_HYQtPe1bOjZzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
